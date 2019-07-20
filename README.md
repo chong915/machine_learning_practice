@@ -11,4 +11,4 @@ Below are the projects being worked on. These mirror projects assigned in the Co
 2. <a href="/perceptron/perceptron.ipynb">Perceptron</a>
 <img src="drawn_images/perceptron.png" width="320">
 2. <a href="/naive_bayes/naive_bayes.ipynb">Naive Bayes</a>
-<img src="drawn_images/naive_bayes.png" width="320">
+<img src="drawn_images/bayes.png" width="320">
